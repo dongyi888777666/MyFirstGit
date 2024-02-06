@@ -29,6 +29,8 @@ BEGIN_MESSAGE_MAP(CMainFrame, CFrameWndEx)
 	ON_WM_SETTINGCHANGE()
 END_MESSAGE_MAP()
 
+// cccvvvv
+
 static UINT indicators[] =
 {
 	ID_SEPARATOR,           // 状态行指示器
